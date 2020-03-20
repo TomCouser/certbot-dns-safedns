@@ -4,6 +4,7 @@
 
 ```bash
 apt install certbot python3-pip
+pip3 install --upgrade setuptools
 pip3 install certbot-dns-safedns
 ```
 
